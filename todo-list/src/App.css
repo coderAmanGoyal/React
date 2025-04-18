@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  width: 1170px;
+  margin: auto;
+  display: flex;
+  gap: 20px;
+}
+
+form input {
+  flex-basis: 80%;
+  height: 40px;
+}
+
+form button {
+  flex-basis: 20%;
+  cursor: pointer;
+}
+
+.outerDiv {
+  width: 1170px;
+  margin: auto;
+}
+
+.outerDiv span {
+  font-size: 30px;
+  cursor: pointer;
+
+}
+
+.outerDiv ul {
+  list-style: none;
+  font-size: 35px;
+  padding: 0 3px 0 3px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  text-align: left;
+}
+
+li {
+ display: flex;
+ justify-content: space-between; 
+ margin-bottom: 50px;
+ background-color: cornflowerblue;
+ color: darkblue;
+}
+
+.completeTodo {
+  text-decoration: line-through;
+  color: red;
+}
