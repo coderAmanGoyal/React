@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "anbuselvanrocky.bootstrap5-vscode",
+    "dsznajder.es7-react-js-snippets",
+    "xabikos.javascriptsnippets",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "jawandarajbir.react-vscode-extension-pack",
+    "xabikos.reactsnippets",
+    "jasonnutter.search-node-modules"
+  ]
+}
